@@ -48,3 +48,14 @@ p{
     font-size: 14px;
     
 }
+
+footer.rod{
+    display: flex;
+    justify-content: center;
+}
+
+p.Copyright{
+    display: flex;
+    justify-content: center;
+}
+
