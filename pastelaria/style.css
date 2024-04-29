@@ -22,3 +22,14 @@ body{
 .card{
     padding: 1rem 1rem;
 }
+
+p.price{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end
+    
+}
+
+p.card-text{
+    font-size: 10px;
+}
