@@ -38,3 +38,13 @@ h2.PageTitle{
     display: flex;
     justify-content: center;  
 }
+
+section.p{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3rem;
+}
+p{
+    font-size: 14px;
+    
+}
